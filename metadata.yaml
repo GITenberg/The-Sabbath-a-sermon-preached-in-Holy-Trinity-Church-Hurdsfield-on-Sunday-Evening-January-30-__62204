@@ -1,11 +1,16 @@
 _repo: The-Sabbath-a-sermon-preached-in-Holy-Trinity-Church-Hurdsfield-on-Sunday-Evening-January-30-__62204
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62204-h/images/cover.jpg
 creator:
   author:
     agent_name: Farrar, John Martindale
     gutenberg_agent_id: '51825'
     url: http://www.gutenberg.org/2009/agents/51825
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62204#The-Sabbath-a-sermon-preached-in-Holy-Trinity-Church-Hurdsfield-on-Sunday-Evening-January-30-_
 gutenberg_issued: '2020-05-23'
 gutenberg_type: Text
 identifiers:
